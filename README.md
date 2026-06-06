@@ -64,6 +64,15 @@ divar-real-estate-analytics-portfolio/
 └── README.md
 ```
 
+## Dataset Access
+
+The full dataset used in this project contains approximately 1 million Divar real estate listings and is around 780 MB in size.
+Due to file size limitations and data sharing considerations, the full dataset is not included in this repository.
+
+If you are interested in reproducing the full analysis or reviewing the dataset for academic or recruitment-related purposes, please contact me via email or open an issue in this repository.
+
+Contact: parsasepehri36@gmail.com
+
 ## Notebook guide
 
 | Notebook | Main focus | Key techniques |
