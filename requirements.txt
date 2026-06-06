@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+missingno
+scipy
+scikit-learn
+catboost
+joblib
+statsmodels
+yellowbrick
+regex
+hazm
+gensim
+fasttext-wheel
+jupyterlab
